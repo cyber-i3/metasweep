@@ -1,0 +1,9 @@
+PyPDF2==3.0.1
+python-docx==0.8.11
+Pillow==9.5.0
+exifread==3.5.1
+python-magic==0.4.27
+lxml==4.9.3
+tabulate==0.9.0
+geopy==2.4.0        # optional; only used if reverse-geocode enabled
+hachoir==3.1.1      # optional deep metadata fallback
